@@ -16,4 +16,4 @@ In order to change the file or message values you should go to the `config.yml` 
 There you will be able to change any values and messages.
 
 ## License
-This project is **Licensed under the** `MGL License`. See the [**LICENSE**](LICENSE) file for details.
+This project is **Licensed under the** `GPL-3.0 License`. See the [**LICENSE**](LICENSE) file for details.
