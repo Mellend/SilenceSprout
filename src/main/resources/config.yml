@@ -1,0 +1,9 @@
+enabled: false
+
+messages:
+  reload:
+    success: "The attempt to reload the configuration is successful!"
+    failed: "Attempting to reload the configuration is failed!"
+
+words:
+  - "Пидор"

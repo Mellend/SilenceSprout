@@ -1,0 +1,16 @@
+name: SilenceSprout
+version: '1.0-SNAPSHOT'
+main: ru.vayflare.silenceSprout.SilenceSprout
+api-version: '1.21'
+authors: [ Vayflare ]
+description: A plugin to blur chat messages written in kotlin
+commands:
+  silencesprout:
+    description: reload plugin
+permissions:
+  silence.reload:
+    description: give permission for /silencesprout reload
+    default: op
+  silence.bypass:
+    description: bypass censored
+    default: op
